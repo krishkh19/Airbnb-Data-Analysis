@@ -1,0 +1,30 @@
+#Airbnb Data Analysis
+This project provides a comprehensive analysis of Airbnb listings using Python and data science tools. 
+The primary objective is to explore trends, insights, and patterns in the Airbnb dataset, helping users better understand pricing, availability, and popular locations.
+
+##Key Features
+Data Cleaning & Preprocessing
+
+Exploratory Data Analysis (EDA)
+
+Visualizations using Matplotlib & Seaborn
+
+Insights into pricing trends, availability, and neighborhood popularity
+
+Analysis of correlations among variables
+
+##Technologies Used
+
+Python 3
+Jupyter Notebook
+Pandas
+NumPy
+Matplotlib
+Seaborn
+
+#clone the repository
+git clone https://github.com/your-username/airbnb-data-analysis.git
+cd airbnb-data-analysis
+
+#open Notebook
+jupyter notebook air_bnb_analysis.ipynb
