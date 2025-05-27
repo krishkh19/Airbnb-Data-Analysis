@@ -29,3 +29,15 @@ cd airbnb-data-analysis
 
 # open Notebook
 jupyter notebook air_bnb_analysis.ipynb
+
+
+![Screenshot (296)](https://github.com/user-attachments/assets/3dc8f079-1b83-4dcc-b744-825867ffec71)
+
+
+![Screenshot (297)](https://github.com/user-attachments/assets/5aab6009-bbfd-45ae-9540-db3a3b6fcb06)
+
+
+![Screenshot (298)](https://github.com/user-attachments/assets/b7d61b6c-9ced-418e-8bc0-47300c0c7714)
+
+
+
